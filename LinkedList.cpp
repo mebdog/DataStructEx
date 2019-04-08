@@ -1,5 +1,5 @@
-struct LL
+struct LinkedList
 {
   int key;
-  LL *next;
+  LinkedList *next;
 };
